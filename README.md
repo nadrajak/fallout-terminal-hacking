@@ -4,7 +4,7 @@ CLI clone of the terminal hacking minigame from Fallout games. Originally writte
 ## Demo
 <img src="https://github.com/nadrajak/fallout-terminal-hacking/blob/main/demo.gif" alt="Demo gif" width="100%"/>
 
-## Building
+## Setup
 
 ### Prerequisites
 - C compiler (GCC recommended)
@@ -14,7 +14,7 @@ On Ubuntu/Debian you can install the prerequisites using:
 sudo apt-get install build-essential
 ```
 
-### Compile & Run
+### Running
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/nadrajak/fallout-terminal-hacking.git
