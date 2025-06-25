@@ -15,8 +15,16 @@ sudo apt-get install build-essential
 ```
 
 ### Compile & Run
-```bash
-cd fallout-terminal-hacking
-gcc -Wall -Wextra -pedantic -o hacking hacking.c
-./hacking
-```
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/nadrajak/fallout-terminal-hacking.git
+    cd  fallout-terminal-hacking
+    ```
+2.  **Compile:**
+    ```bash
+    gcc -Wall -Wextra -pedantic -o hacking hacking.c
+    ```
+3.  **Run:**
+    ```bash
+    ./hacking
+    ```
